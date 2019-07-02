@@ -1,0 +1,72 @@
+.cardWrapper {
+  flex: 0 1 48.5%;
+  margin-bottom: 33px; }
+
+.cardWrapper .card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 1.5vw;
+  border: 0.75px solid rgba(255, 255, 255, 0.3);
+  box-sizing: border-box;
+  border-radius: 20px;
+  box-shadow: none; }
+  .cardWrapper .card.complete {
+    background-color: #F3FEF2; }
+
+.df {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px; }
+
+h2 {
+  margin: 0;
+  font-size: 1.5625rem;
+  color: #0089e9; }
+
+.progress {
+  font-size: 1.5625rem; }
+
+.card .bold {
+  margin-bottom: 15px;
+  padding-bottom: 0;
+  border: none;
+  text-decoration: underline; }
+
+.bold {
+  margin-bottom: 15px;
+  padding-bottom: 0;
+  font-weight: bold;
+  font-size: 1.25rem;
+  border: none;
+  text-decoration: underline; }
+
+.cardSection {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end; }
+
+.productTitle {
+  display: block;
+  margin-bottom: 10px;
+  padding-bottom: 7px;
+  font-size: 1.25rem;
+  border-bottom: 1px solid #0089e9; }
+
+.itemInfo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 7px;
+  font-size: 1.125rem; }
+  .itemInfo:last-child {
+    margin-bottom: 0; }
+
+.value {
+  flex: 0 1 49%;
+  font-weight: bold;
+  color: #0089e9;
+  text-align: right; }
+
+/*# sourceMappingURL=style.module.css.map */
