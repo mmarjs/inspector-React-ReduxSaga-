@@ -36,7 +36,7 @@
     "material-ui-flat-pagination": "^3.2.0",
     "material-ui-pickers": "^2.2.4",
     "moment": "^2.24.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.8.6",
     "react-cropper-image-editor": "^1.0.10",
     "react-detect-offline-api": "^1.0.3",
