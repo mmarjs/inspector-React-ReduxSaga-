@@ -28,7 +28,7 @@
     "@types/redux-saga": "^0.10.5",
     "@types/uuid": "^3.4.4",
     "cross-env": "^5.2.0",
-    "dexie": "^2.0.4",
+    "dexie": "^3.2.2",
     "global": "^4.3.2",
     "immutable": "^4.0.0-rc.12",
     "jslib-html5-camera-photo": "^3.0.2-beta.0",
